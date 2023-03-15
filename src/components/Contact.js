@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from '@react-email/link';
 
 export default function Contact() {
     const [name, setName] = React.useState("");
@@ -53,7 +52,9 @@ export default function Contact() {
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 EMAIL
               </h2>
-              <Link href="mahmutfurkangon16400@gmail.com">email</Link>
+              <a className="text-indigo-400 leading-relaxed">
+                mahmutfurkangon16400@gmail.com
+              </a>
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 PHONE
               </h2>
