@@ -1,6 +1,5 @@
 import { ArrowRightIcon } from "@heroicons/react/solid";
 import React from "react";
-import { Link } from '@react-email/link';
 
 export default function Navbar() {
   return (
