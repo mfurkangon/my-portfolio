@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "TrainGo",
+    subtitle: "Freshmen Term Project",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "An Android app for train management. The system allows managers to edit trains, and while the users can buy or reserve tickets.",
+    image: "./Android-46.png",
+    link: "",
   },
   {
     title: "React Tracks",
@@ -51,10 +51,12 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "JavaScript",
-  "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "Java",
+  "SpringBoot",
+  "Python",
+  "C/C++",
+  "Linux",
+  "Git/GitHub",
+  "Kotlin",
+  "React.JS",
 ];
